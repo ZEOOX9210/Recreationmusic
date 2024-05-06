@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Camelia ダ ᴍᴜsɪᴄ 」──
+    ──「 ʀᴇᴄʀᴇᴀᴛɪᴏɴ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/9f8f0f330cf113657850b.jpg">
+  <img src="https://graph.org/file/692510b3a603bf9aa5a01.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/9f8f0f330cf113657850b.jpg">
+  <img src="https://graph.org/file/692510b3a603bf9aa5a01.jpg">
 </p>
 
 <h3 align="center">
